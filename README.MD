@@ -24,7 +24,9 @@ Git is a free and open-resources distributed Version Control System (VCS) that d
 
 ## Getting Started 
 1. First, you need to install Git in your computer. The following link is for you to install Git in your computer. 
+    ```sh
     <a href = "https://git-scm.com/">Git Installation</a>
+    ```
 
 2. Once you install your Git, you may check you Git version by verify that Git has succesfully installed in your computer. You may use the commant prompt in your computer to check it by using the following code. 
     ```sh
@@ -32,7 +34,9 @@ Git is a free and open-resources distributed Version Control System (VCS) that d
     ```
 
 3. Finally, go to GitHub to create your first account and we can start to create your first repository in our next session! 
+    ```sh
     <a href = "https://github.com/">Link to GitHub</a>
+    ```
 
 ## Showcasing 
 1. Great! You are now ready to create your first repository. Go to your GitHub profile and create your first repository. (You can name your repository with any name) Next up, open your Visual Studio Code and run your terminal in 'cmd'. 
