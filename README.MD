@@ -32,8 +32,7 @@ Git is a free and open-resources distributed Version Control System (VCS) that d
     git --version 
     ```
 
-3. Finally, go to GitHub to create your first account and we can start to create your first repository in our next session! 
-- <a href = "https://github.com/">Link to GitHub</a>
+3. Finally, go to GitHub to create your first account and we can start to create your first repository in our next session! <a href = "https://github.com/">Link to GitHub</a>
   
 <!-- Showcasing -->
 ## Showcasing 
