@@ -24,8 +24,7 @@ Git is a free and open-resources distributed Version Control System (VCS) that d
 
 <!-- Getting Started  -->
 ## Getting Started 
-1. First, you need to install Git in your computer. The following link is for you to install Git in your computer. 
-- <a href = "https://git-scm.com/">Git Installation</a>
+1. First, you need to install Git in your computer. The following link is for you to install Git in your computer. Click <a href = "https://git-scm.com/">here</a> for Git Installation. 
   
 
 2. Once you install your Git, you may check you Git version by verify that Git has succesfully installed in your computer. You may use the commant prompt in your computer to check it by using the following code. 
